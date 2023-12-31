@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\CRC_Calculator.props" />
-</Project>
