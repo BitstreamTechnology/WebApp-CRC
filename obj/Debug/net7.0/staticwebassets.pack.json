@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Websites\\Kenneth\\CRC-Setup\\CRC-Calculator\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Websites\\Kenneth\\CRC-Setup\\CRC-Calculator\\obj\\Debug\\net7.0\\compressed\\128vjdxcob.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Websites\\Kenneth\\CRC-Setup\\CRC-Calculator\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CRC-Calculator.styles.css",
+      "PackagePath": "staticwebassets\\CRC-Calculator.styles.css"
+    },
+    {
+      "Id": "D:\\Websites\\Kenneth\\CRC-Setup\\CRC-Calculator\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Websites\\Kenneth\\CRC-Setup\\CRC-Calculator\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Websites\\Kenneth\\CRC-Setup\\CRC-Calculator\\wwwroot\\src\\displayhelper.js",
+      "PackagePath": "staticwebassets\\src\\displayhelper.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CRC-Calculator.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CRC-Calculator.props",
+      "PackagePath": "build\\CRC-Calculator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CRC-Calculator.props",
+      "PackagePath": "buildMultiTargeting\\CRC-Calculator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CRC-Calculator.props",
+      "PackagePath": "buildTransitive\\CRC-Calculator.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
