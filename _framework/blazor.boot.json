@@ -1,7 +1,7 @@
 {
   "entryAssembly": "CRC-Calculator",
   "resources": {
-    "hash": "sha256-VrkVT5/AIZNbJtmrPS1ijjFvz750ZFY0pbn10q1bJiA=",
+    "hash": "sha256-tYcTBw0ksBy081WKp4eQLJ0jaWYuI5b/Q6B+mAc5B7U=",
     "runtime": {
       "dotnet.7.0.14.21kxexpzmw.js": "sha256-YWGUknGRzP/fgO6YjvCJKPVQNZAPEd6ll+rHfQEIW+I=",
       "dotnet.timezones.blat": "sha256-t5xviiOQTfAsF0UDhmcyalKiaehUmf/sqJl97tmPM0M=",
@@ -12,7 +12,7 @@
     },
     "assembly": {
       "Blazored.Modal.dll": "sha256-Sr30UiM7JErBe8hojY6HAgaOOgfQE5zHijI0uVypmkM=",
-      "CRC-Calculator.dll": "sha256-rfw9P1FluoQQPb8QHzY3NBkpb2gHUA2es+GuGJvBjo4=",
+      "CRC-Calculator.dll": "sha256-E2u8smG4fo3kgSQbyopMxzkns4Ra1m1AVUh7tsCWt9s=",
       "Microsoft.AspNetCore.Components.dll": "sha256-OguyTyGm+V0xd7pZynE9SPC3AXaxrctK11Z5PFtGE7U=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-1zQ5m1WBWcoyd6HCqJsdERga0a9UMPicgbDc+qy5Lw8=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-IiCeDD2/cESvpd281cmPUvaLlj5RlX/Gy2c0FzTfcec=",
